@@ -5,9 +5,11 @@ my first multi tool, it got a free DDOS, a tokengrabberCreator and more.... have
 
 1. Disable your antivirus and Unzip the project folder.
    
-3. Open a Powershell and do cd SpeedyTOOL
+3. Open a Powershell and do:
+  
+4. cd SpeedyTOOL
    
-4. pip install -r requirements.txt
+5. pip install -r requirements.txt
 
-5. python start.py
+6. python start.py
 
