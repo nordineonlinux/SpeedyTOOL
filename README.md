@@ -9,7 +9,7 @@ my first multi tool, it got a free DDOS, a tokengrabberCreator and more.... have
 2. Open a terminal and navigate to the project directory:  
 3. go cd SpeedyTOOL
 4. Install the required dependencies:
-  -pip install -r requirements.txt
+pip install -r requirements.txt
 5.Run the tool:
- -python start.py
-Enjoy....
+python start.py
+
