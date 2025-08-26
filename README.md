@@ -7,7 +7,7 @@ my first multi tool, it got a free DDOS, a tokengrabberCreator and more.... have
    
 3. Open a Powershell and do:
   
-4. cd SpeedyTOOL
+4. cd Dowloads + cd SpeedyTOOL
    
 5. pip install -r requirements.txt
 
